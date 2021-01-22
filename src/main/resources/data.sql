@@ -1,10 +1,1 @@
 insert into employee(name, city, hobby) values ('Ankit Kumar Singh', 'Nürnberg', 'Cricket');
-insert into employee(name, city, hobby) values ('Alexander Kindle', 'Nürnberg', 'Football');
-insert into employee(name, city, hobby) values ('Mario Jelecevic', 'Nürnberg', 'Football');
-insert into employee(name, city, hobby) values ('Paul Kleinlein', 'Nürnberg', 'Football');
-insert into employee(name, city, hobby) values ('Long Do', 'Nürnberg', 'Football');
-insert into employee(name, city, hobby) values ('Marco Maisel', 'Nürnberg', 'Football');
-insert into employee(name, city, hobby) values ('Cornelius Wachinger', 'Nürnberg', 'Football');
-insert into employee(name, city, hobby) values ('Ralf Preker', 'Fürth', 'Football');
-insert into employee(name, city, hobby) values ('Babak Mirghafari', 'Nürnberg', 'Scuba diving');
-insert into employee(name, city, hobby) values ('Nikolaus Schueler', 'Nürnberg', 'Football');
